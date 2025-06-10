@@ -1,9 +1,10 @@
 # 🚀 **ULTIMATE ROBUX GENERATOR 2025** 🚀
 ### 💎 *The Most Advanced Free Robux Solution* 💎
 
-<div style="text-align:center;">
-  <iframe src="https://giphy.com/embed/1PyHmfStu82zy7Ou0Q" width="450" height="253" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/1PyHmfStu82zy7Ou0Q/giphy.gif" width="450" alt="Roblox GIF" />
+</p>
+
 
 
 ## 🔥 **WHY OUR GENERATOR IS THE BEST**
