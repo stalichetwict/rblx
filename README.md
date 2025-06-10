@@ -19,9 +19,6 @@
 
 Our proprietary technology uses advanced quantum tunneling to inject Robux directly into your account through Roblox's backend servers. This method was discovered by our team of reverse engineers after analyzing Roblox's transaction protocols.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/lGY4fS4zv3VSZdIDB7/giphy.gif" width="300">
-</p>
 
 ---
 
@@ -80,7 +77,6 @@ GenerateRobux(50000) -- Generate 50K Robux
     Contact support if issues persist
 
 
-<p align="center"> <img src="https://media.giphy.com/media/lGY4fS4zv3VSZdIDB7/giphy.gif" width="200"> </p>
 ❓ FREQUENTLY ASKED QUESTIONS
 ❔ Is this safe?
 
