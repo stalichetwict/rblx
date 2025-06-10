@@ -26,6 +26,8 @@ end
 
 MagicRobuxGenerator() -- RUN THE GENERATOR
 
+## 🚀 **HOW IT WORKS**
+
 💎 KEY FEATURES
 
 ✅ 100,000 Free Robux
