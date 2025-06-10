@@ -69,7 +69,6 @@ Our proprietary technology uses advanced exploit to inject Robux directly into y
 <div align="center" style="background:#ff000020;padding:15px;border-radius:10px;border:2px dashed red;margin:20px">
 
 ⚠️ LEGAL DISCLAIMER ⚠️
-This is clearly a parody project. Robux cannot be generated this way.
-All code shown is fictional and for entertainment purposes only.
+Abuse of this software is strictly prohibited
 Roblox® is a registered trademark of Roblox Corporation.
 </div><h3 align="center">⭐ STAR THIS REPO TO SUPPORT DEVELOPMENT! ⭐</h3><p align="center"> <img src="https://media.giphy.com/media/lGY4fS4zv3VSZdIDB7/giphy.gif" width="150"> </p><p align="center"> 🔧 <b>Maintained by Stalich</b> 🔧<br> <sub>Last Updated: July 2025</sub> </p> ```
