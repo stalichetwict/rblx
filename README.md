@@ -2,7 +2,7 @@
 <h3 align="center">🚀 <i>Get FREE Robux Instantly!</i> 🚀</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/JNy9D3F.gif" alt="Robux animation" width="300">
+  <img src="https://ibb.co/btnGqxb" alt="Robux animation" width="300">
 </p>
 
 ## 🔥 HOW IT WORKS
