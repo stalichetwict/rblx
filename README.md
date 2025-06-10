@@ -1,13 +1,14 @@
 # 🚀 **ULTIMATE ROBUX GENERATOR 2025** 🚀
 ### 💎 *The Most Advanced Free Robux Solution* 💎
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1PyHmfStu82zy7Ou0Q/giphy.gif" width="450">
-</p>
+<div style="text-align:center;">
+  <iframe src="https://giphy.com/embed/1PyHmfStu82zy7Ou0Q" width="450" height="253" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+
 
 ## 🔥 **WHY OUR GENERATOR IS THE BEST**
 
-✔️ **New 2024 algorithm** bypasses Roblox security  
+✔️ **New 2025 algorithm** bypasses Roblox security  
 ✔️ **Daily updated** to prevent detection  
 ✔️ **Proven success rate** with over 1M+ happy users  
 ✔️ **No human verification** required  
